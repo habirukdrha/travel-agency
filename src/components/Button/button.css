@@ -11,16 +11,16 @@
 }
 
 .btn--primary {
-  background-color: var(--primary);
+  background-color: #ffffff;
   color: #242424;
-  border: 1px solid var(--primary);
+  border: 1px solid #ffffff;
 }
 
 .btn--outline {
   background-color: transparent;
   color: #ffffff;
   padding: 8px 20px;
-  border: 1px solid var(--primary);
+  border: 1px solid #ffffff;
   transition: all 0.3s ease-out;
 }
 
